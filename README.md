@@ -8,8 +8,10 @@ Assumption made during implementation:
  Sample usage:
  java -jar ubs-project-0.0.1-SNAPSHOT.jar "../src/test/resources/INPUT.txt" 
 
-
-Improvement to consider in future:
+Suggested improvements:
  - adding exception handlers in IO classes
  - adding more tests
  - customizing path for OUTPUT.txt file
+
+
+Time spent on the task: 4h40min.
